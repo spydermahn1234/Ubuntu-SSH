@@ -1,1 +1,1 @@
-git clone --recurse-submodules https://github.com/nnippon/ErfanGSIs.git ~/gsi && bash ~/gsi/setup.sh
+git clone --recurse-submodules https://github.com/TheCandyShop-MM3/ErfanGSIs-TheCandyShop.git ~/gsi && bash ~/gsi/setup.sh
