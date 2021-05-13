@@ -1,1 +1,2 @@
-git clone --recurse-submodules https://github.com/TheCandyShop-MM3/ErfanGSIs-TheCandyShop.git ~/gsi && bash ~/gsi/setup.sh
+aria2c https://github.com/xiaoxindada/SGSI-build-tool/releases/download/v11-1.5/SGSI-build-tool-11.tar
+tar -xf SGSI-build-tool-11.tar
